@@ -12,6 +12,8 @@ role: Doctoral Researcher, Tutor and Mental Health Support Worker
 organizations:
   - name: University of Sussex, School of Psychology
     url: https://www.sussex.ac.uk/schools/psychology/
+  - name: Sussex Ingestive Behaviour Group
+    url: http://www.sussex.ac.uk/psychology/sibg/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
