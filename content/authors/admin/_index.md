@@ -79,7 +79,7 @@ email: ''
 highlight_name: true
 ---
 
-Rhiannon Mae Armitage is a Doctoral Researcher in the School of Psychology at the University of Sussex.
+Rhiannon Mae Armitage (she/her) is a Doctoral Researcher in the School of Psychology at the University of Sussex.
 
 Her PhD focuses on understanding the genetic and neural basis of individual differences in liking for sweet tastes as a marker of risk for the development of obesity and consequent type-2 diabetes.
 
