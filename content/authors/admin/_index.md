@@ -81,7 +81,7 @@ highlight_name: true
 
 Rhiannon Mae Armitage is a Doctoral Researcher in the School of Psychology at the University of Sussex.
 
-Her PhD focuses on understanding the genetic and neural basis of individual differences in liking for sweet tastes as a marker of risk for the development of obesity and consequent type-2 diabetes. 
+Her PhD focuses on understanding the genetic and neural basis of individual differences in liking for sweet tastes as a marker of risk for the development of obesity and consequent type-2 diabetes.
 
 She is also actively working on multisensory projects, including elucidating the behavioural and neural basis of odour-taste associations and utilises micro-phenomenological interviews to explore and understand people's individual experiences of the sensory world. 
 
