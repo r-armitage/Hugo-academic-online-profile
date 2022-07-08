@@ -16,26 +16,30 @@ organizations:
     url: http://www.sussex.ac.uk/psychology/sibg/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include sensory science, ingestive behaviour and healthly living.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Sensory Science  
+  - Experimental Psychology 
+  - Ingestive Behaviour 
+  - Genetics 
+  - Neuroimaging 
+  - Mental Health and Wellbeing 
+  - Micro-phenomenological Interview
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Psychology 
+      institution: The University of Sussex
+      year: exp, 2023   
+    - course: PG Cert in Mental Health Practice 
+      institution: The University of Sussex and Sussex NHS Foundation Partnership Trust 
+      year: 2017
+    - course: BSc in Psychology and Legal Studies 
+      institution: The University of Sussex
+      year: 2016
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -50,19 +54,16 @@ social:
     link: https://twitter.com/rmarmitage
   - icon: orcid
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://orcid.org/0000-0002-8740-5689
   - icon: researchgate
     icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: https://www.researchgate.net/profile/Rhiannon-Armitage
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/r-armitage
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/rmarmitage
+    link: https://uk.linkedin.com/in/rhiannon-mae-armitage
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
@@ -78,8 +79,10 @@ email: ''
 highlight_name: true
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Rhiannon Mae Armitage is a Doctoral Researcher in the School of Psychology at the University of Sussex.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Her PhD focuses on understanding the genetic and neural basis of individual differences in liking for sweet tastes as a marker of risk for the development of obesity and consequent type-2 diabetes. Multidisciplinary in nature, her work draws on methods from psychology, genetics, neuroscience and nutrition, utilising techniques such as body composition analysis, fMRI and twin modeling.
+
+She is also actively working on multisensory projects, including educating the behavioural and neural basis of odour-taste associations and utilises micro-phenomenological interviews to explore and understand people's individual experiences of the sensory world. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
