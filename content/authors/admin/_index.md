@@ -22,7 +22,7 @@ bio: My research interests include sensory science, ingestive behaviour and heal
 interests:
   - Sensory Science  
   - Experimental Psychology 
-  - Ingestive Behaviour 
+  - Ingestive Behaviour and Nutrition 
   - Genetics 
   - Neuroimaging 
   - Mental Health and Wellbeing 
@@ -81,8 +81,8 @@ highlight_name: true
 
 Rhiannon Mae Armitage is a Doctoral Researcher in the School of Psychology at the University of Sussex.
 
-Her PhD focuses on understanding the genetic and neural basis of individual differences in liking for sweet tastes as a marker of risk for the development of obesity and consequent type-2 diabetes. Multidisciplinary in nature, her work draws on methods from psychology, genetics, neuroscience and nutrition, utilising techniques such as body composition analysis, fMRI and twin modeling.
+Her PhD focuses on understanding the genetic and neural basis of individual differences in liking for sweet tastes as a marker of risk for the development of obesity and consequent type-2 diabetes. 
 
-She is also actively working on multisensory projects, including educating the behavioural and neural basis of odour-taste associations and utilises micro-phenomenological interviews to explore and understand people's individual experiences of the sensory world. 
+She is also actively working on multisensory projects, including elucidating the behavioural and neural basis of odour-taste associations and utilises micro-phenomenological interviews to explore and understand people's individual experiences of the sensory world. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
